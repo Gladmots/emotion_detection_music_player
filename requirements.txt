@@ -1,0 +1,9 @@
+opencv-python>=4.9
+deepface>=0.0.93
+tensorflow>=2.16,<2.18
+numpy>=1.25
+pillow>=10.0
+customtkinter>=5.2
+python-vlc>=3.0.20123
+yt-dlp>=2024.8.6
+youtube-search-python>=1.6.6
