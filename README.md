@@ -27,13 +27,13 @@ Detect your mood in real time and auto-play matching music. This uses your webca
 git clone https://github.com/Gladmots/emotion_detection_music_player.git
 cd emotion_detection_music_player
 ```
-# (Windows PowerShell)
+#### (Windows PowerShell)
 ```bash
 python -m venv .venv
 . .venv/Scripts/Activate.ps1
 pip install -r requirements.txt
 ```
-# (macOS/Linux)
+#### (macOS/Linux)
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
